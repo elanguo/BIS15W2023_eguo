@@ -8,7 +8,7 @@ Hi there! This is elan, a 2nd-year bioscience major at UCD. I currently lived of
 
 ------------------------------------------------------------------------
 
-[Elan Guo](guoelan128@ucdavis.edu)
+[Elan Guo](ylguo@ucdavis.edu)
 
 ## Class Link
 
