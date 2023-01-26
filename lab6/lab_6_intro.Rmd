@@ -1,0 +1,60 @@
+---
+title: "Lab 6 Intro"
+date: "`r Sys.Date()`"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library("jpeg")
+```
+
+```{r}
+library("tidyverse")
+library("janitor")
+```
+
+```{r}
+ecosphere <- readr::read_csv("data/ecs21351-sup-0003-SupplementS1.csv")
+```
+
+```{r}
+ecosphere <- janitor::clean_names(rawdata)
+names(ecosphere)
+```
+
+```{r}
+glimpse(ecosphere)
+```
+
+```{r}
+ec
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
